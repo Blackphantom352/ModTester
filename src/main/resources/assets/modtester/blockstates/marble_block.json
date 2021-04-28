@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "modtester:block/marble_block"
+    }
+  }
+}

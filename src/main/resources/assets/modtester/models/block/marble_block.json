@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "modtester:blocks/marble",
+    "up": "modtester:blocks/marble",
+    "north": "modtester:blocks/marble",
+    "east": "modtester:blocks/marble",
+    "south": "modtester:blocks/marble",
+    "west": "modtester:blocks/marble",
+    "particle": "modtester:blocks/marble"
+  }
+}

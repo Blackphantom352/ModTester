@@ -1,0 +1,8 @@
+{
+  "parent": "modtester:custom/tupperware",
+  "textures": {
+    "all": "modtester:blocks/tupperware",
+    "particle": "modtester:blocks/tupperware",
+    "0": "modtester:blocks/tupperware"
+  }
+}

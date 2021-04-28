@@ -1,0 +1,7 @@
+{
+  "parent": "modtester:custom/big_bertha",
+  "textures": {
+    "0": "modtester:blocks/",
+    "particle": "modtester:items/bigbertha"
+  }
+}

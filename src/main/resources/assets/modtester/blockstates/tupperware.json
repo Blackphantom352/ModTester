@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "modtester:block/tupperware"
+    },
+    "facing=east": {
+      "model": "modtester:block/tupperware",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "modtester:block/tupperware",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "modtester:block/tupperware",
+      "y": 270
+    }
+  }
+}

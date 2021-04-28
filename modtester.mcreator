@@ -1,0 +1,169 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "NewBlocks",
+      "type": "tab",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "new_blocks"
+    },
+    {
+      "name": "MarbleBlock",
+      "type": "block",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "marble_block"
+    },
+    {
+      "name": "Marbles",
+      "type": "item",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "marbles"
+    },
+    {
+      "name": "NewMobs",
+      "type": "tab",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "new_mobs"
+    },
+    {
+      "name": "ElectricParticle",
+      "type": "particle",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "electric_particle"
+    },
+    {
+      "name": "BigBertha",
+      "type": "tool",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "big_bertha"
+    },
+    {
+      "name": "NewWeapons",
+      "type": "tab",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "new_weapons"
+    },
+    {
+      "name": "NewItems",
+      "type": "tab",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "new_items"
+    },
+    {
+      "name": "Tupperware",
+      "type": "block",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tupperware"
+    },
+    {
+      "name": "Tupperwaregui",
+      "type": "gui",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tupperwaregui"
+    },
+    {
+      "name": "TupperwareOnBlockRightClicked",
+      "type": "procedure",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tupperware_on_block_right_clicked",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [
+    {
+      "name": "oz_ambient",
+      "files": [
+        "crow-_4_"
+      ],
+      "category": "ambient",
+      "subtitle": ""
+    }
+  ],
+  "language_map": {
+    "en_us": {
+      "itemGroup.tabnew_blocks": "New Blocks",
+      "itemGroup.tabnew_mobs": "New Mobs",
+      "subtitles.oz_ambient": "",
+      "block.modtester.marble_block": "Marble Block",
+      "itemGroup.tabnew_weapons": "New Weapons",
+      "block.modtester.tupperware": "Tupperware",
+      "item.modtester.marbles": "Marbles",
+      "itemGroup.tabnew_items": "New Items",
+      "item.modtester.big_bertha": "Big Bertha"
+    }
+  },
+  "workspaceSettings": {
+    "modid": "modtester",
+    "modName": "ModTester",
+    "version": "1.0.0",
+    "author": "benjaminoler, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.15.2",
+    "modElementsPackage": "net.mcreator.modtester",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202000547520
+}

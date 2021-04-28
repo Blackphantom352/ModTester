@@ -1,0 +1,11 @@
+{
+  "oz_ambient": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "modtester:crow-_4_",
+        "stream": false
+      }
+    ]
+  }
+}
